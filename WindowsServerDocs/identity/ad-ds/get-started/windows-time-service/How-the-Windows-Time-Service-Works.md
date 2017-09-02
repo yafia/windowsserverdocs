@@ -260,7 +260,9 @@ The Windows Time service communicates on a network to identify reliable time sou
 |----------------|-------|-------|  
 |NTP|123|N/A|  
 |SNTP|123|N/A|  
-  
+
+to snyc it type time.windows.com for window timeing 
+
 ## See Also  
 [Windows Time Service Technical Reference](https://technet.microsoft.com/library/cc773061.aspx)  
 [Windows Time Service Tools and Settings](Windows-Time-Service-Tools-and-Settings.md)  
